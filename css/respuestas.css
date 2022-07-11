@@ -1,0 +1,27 @@
+.respuesta{
+    margin-top: 20px;
+    border-radius: 6px;
+    color: black;
+    border-width: 2.5px;   
+}
+.calificar{
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 2.5px; 
+    
+}
+
+@media(max-device-width:576px){
+    .respuesta{
+    width: 250px;
+    }
+}
+/*
+==========Imagenes de la pagina principal=======
+*/
+.about-section .items-wrapper .figure-image {
+  width: 220px;
+  height: 220px;
+}
+
